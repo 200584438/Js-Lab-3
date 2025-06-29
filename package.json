@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "lab-assignment",
+  "version": "1.0.0",
+  "main": "file1.js",
+  "scripts": {
+    "start": "nodemon file1.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sarishma Giri",
+  "license": "ISC",
+  "description": "Express lab assignment with JSON and CRUD",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
